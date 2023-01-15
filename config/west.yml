@@ -1,7 +1,7 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    - name: brousalis
+      url-base: https://github.com/brousalis
   projects:
     - name: zmk
       remote: brousalis
